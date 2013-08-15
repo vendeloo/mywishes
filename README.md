@@ -1,0 +1,4 @@
+mywishes
+========
+
+Wishlist management
