@@ -1,8 +1,8 @@
 {
-  "author": "Josh David Miller",
-  "name": "ng-boilerplate",
-  "version": "0.3.0",
-  "homepage": "http://bit.ly/ng-boilerplate",
+  "author": "Mike van Vendeloo",
+  "name": "myWishes",
+  "version": "0.1.0",
+  "homepage": "http://mike.vanvendeloo/mywishes",
   "licenses": {
     "type": "MIT",
     "url": "https://raw.github.com/joshdmiller/ng-boilerplate/master/LICENSE"

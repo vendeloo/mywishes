@@ -1,4 +1,4 @@
-angular.module( 'ngBoilerplate.about', [
+angular.module( 'myWishes.about', [
   'ui.state',
   'placeholders',
   'ui.bootstrap',
