@@ -9,3 +9,4 @@ vendor/
 *.jar
 *.war
 *.ear
+.idea/
