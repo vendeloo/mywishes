@@ -4,3 +4,8 @@ build/
 bin/
 node_modules/
 vendor/
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
