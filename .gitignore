@@ -10,3 +10,4 @@ vendor/
 *.war
 *.ear
 .idea/
+*.iml
